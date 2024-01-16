@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 #
 #
-#addition
+# addition
+=======
+#percentage
+>>>>>>> branchx
